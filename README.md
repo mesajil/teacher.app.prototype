@@ -1,1 +1,1 @@
-# teacherApp
+# teacher-app-prototype
